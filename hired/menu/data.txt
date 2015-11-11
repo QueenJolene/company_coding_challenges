@@ -1,0 +1,2 @@
+Beverage Name,Beverage Cost,Beverage Value,Appetizer Name,Appetizer Cost,Appetizer Value,Entrée Name,Entrée Cost,Entrée Value,Desert Name,Desert Cost,Desert Value,Restaurant Name,Restaurant Drink Cost,Restaurant Value 
+7up, $92.00 ,32,Fresh Rolls, $82.00 ,30,Fried Rice, $78.00 ,29,Vanilla Ice Cream, $76.00 ,13,Applebee's, $43.00,19,Sprite, $89.00 ,24,Spring Rolls, $54.00 ,18,PB & J, $49.00 ,29,chocolate cake, $50.00 ,25,Arby's, $26.00 ,5 
